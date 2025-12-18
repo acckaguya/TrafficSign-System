@@ -96,7 +96,7 @@ npm run dev
 ```
 
 ### 目结构
-
+plate
 Project_Root/
 ├── backend/                  # 后端代码
 │   ├── app/
