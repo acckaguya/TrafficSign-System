@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics
+websockets
+opencv-python
+python-multipart
+sqlalchemy
+psycopg2
+dotenv
+sahi

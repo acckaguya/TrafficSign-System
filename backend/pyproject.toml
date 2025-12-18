@@ -1,0 +1,18 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.121.2",
+    "opencv-python>=4.12.0.88",
+    "psycopg2>=2.9.11",
+    "python-multipart>=0.0.20",
+    "sahi>=0.11.14",
+    "sqlalchemy>=2.0.44",
+    "ultralytics>=8.3.229",
+    "uvicorn>=0.38.0",
+    "websockets>=15.0.1",
+]
