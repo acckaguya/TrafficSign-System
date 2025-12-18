@@ -96,7 +96,7 @@ npm run dev
 ```
 
 ### 目结构
-plate
+```
 Project_Root/
 ├── backend/                  # 后端代码
 │   ├── app/
@@ -126,3 +126,4 @@ Project_Root/
     │   └── main.jsx          # 入口文件
     ├── index.html
     └── tailwind.config.js
+```
